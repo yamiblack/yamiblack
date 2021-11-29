@@ -1,8 +1,8 @@
-# Projects (작업 중)
+# Projects💻 (작업 중)
 - 개발 관련 프로젝트 목록입니다.
 - 각 프로젝트명을 클릭하시면 상세한 내용을 확인할 수 있습니다. 
 
-## [Medipresso](https://medipresso.com/)
+## [Medipresso](https://medipresso.com/)☕️
 - 2021.09.01 ~ 2021.12.23(예정) : 안드로이드 개발 인턴 근무
 
 |프로젝트명|프로젝트 요약|기술스택|
@@ -13,7 +13,7 @@
 
 <br>
 
-## [Marusoft](https://www.marusoft.net/)
+## [Marusoft](https://www.marusoft.net/)🚎
 - 2020.07.07 ~ 2020.08.31 : 안드로이드 개발 현장실습 
 - 2020.10.29 ~ 2021.04.28 : 안드로이드 개발 계약직 근무
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## Contest
+## Contest🏆
 |프로젝트명|프로젝트 요약|기술스택|수상|
 |:---:|:---:|:---:|:---:|
 |[Polaris][Polaris]|갤럭시워치 진동 기반 안전 도보 내비게이션 애플리케이션|```Android``` ```Java``` ```Tizen``` <br> ```SAP``` ```MVC``` ```Firebase``` |2021년 한국정보기술학회 <br> 대학생논문경진대회 은상(2위)|
@@ -56,7 +56,7 @@
 
 <br>
 
-## School
+## School📚
 |프로젝트명|프로젝트 요약|기술스택|
 |:---:|:---:|:---:|
 |[Celebrity Quiz][CelebrityQuiz]|유명인 이름 맞추기 게임 애플리케이션|```Android``` ```MVC``` ```Firebase```|
