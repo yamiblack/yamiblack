@@ -1,1 +1,0 @@
-# Smart Arduino Trash bin
