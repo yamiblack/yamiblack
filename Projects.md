@@ -36,7 +36,7 @@
 ## Contest 🏆
 |프로젝트명|프로젝트 요약|기술스택|수상|
 |:---:|:---:|:---:|:---:|
-|[Polaris][Polaris]|갤럭시워치 진동 기반 안전 도보 <br> 내비게이션 애플리케이션|```Android``` ```Java``` ```Tizen``` <br> ```SAP``` ```MVC``` ```Firebase``` |2021년 한국정보기술학회 <br> 대학생논문경진대회 은상(2위)|
+|[Polaris][Polaris]|갤럭시워치 진동 기반 안전 도보 <br> 내비게이션 애플리케이션|```Android``` ```Java``` ```Tizen``` <br> ```SAP``` ```MVC``` ```Firebase``` |2021년 한국정보기술학회 <br> 대학생논문경진대회 은상(2위) <br>Software Engineering Day 대상 |
 |[AutoSaver][AutoSaver]|교통사고 및 낙상사고 감지 비상 연락 <br> 애플리케이션|```Android``` ```Java``` ```MVC``` <br> ```Kotlin``` ```MVVM``` ```django``` ```OkHttp```||
 |[Brr(보르르)][Brr]|청각장애인용 이름 인식 손목 진동 <br> 호출기 및 애플리케이션|```Android``` ```Arduino``` <br> ```Bluetooth``` ```Azure```|ICT 장애인 보조공학기기 공모전 <br>우수상(3위)|
 |[ASF Information Hub][ASF]|돼지열병(ASF) 관련 정보 조회 <br>및 추가 웹사이트|```Web``` ```HTML``` ```CSS``` <br> ```JavaScript``` ```django```   |Google DSC TOP10 <br> (세부 등수 없음)|
