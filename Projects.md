@@ -55,6 +55,13 @@
 [SmartFarm]:https://github.com/yamiblack/Smart_Farm/blob/master/README.md
 [농사직설]:https://github.com/yamiblack/NongSaJikSeol/blob/main/README.md
 [쓰앵님]:https://github.com/yamiblack/SseuAengNim/blob/master/README.md
+  
+<br>
+  
+## Toy Project 🔍
+|프로젝트명|프로젝트 요약|기술스택|
+|:---:|:---:|:---:|
+|나의 오늘 <br>(Now)|나의 오늘을 기록하는 애플리케이션|```Android``` ```Kotlin``` ```MVVVM``` <br> ```Firebase```|
 
 <br>
 
