@@ -61,8 +61,10 @@
 ## Toy Project 🔍
 |프로젝트명|프로젝트 요약|기술스택|
 |:---:|:---:|:---:|
-|나의 오늘 <br>(Now)|나의 오늘을 기록하는 애플리케이션|```Android``` ```Kotlin``` ```MVVVM``` <br> ```Firebase```|
+|[나의 오늘(Now)][Now]|나의 오늘을 기록하는 애플리케이션|```Android``` ```Kotlin``` ```MVVVM``` <br> ```Firebase```|
 
+[Now]:https://github.com/yamiblack
+  
 <br>
 
 ## School 📚
